@@ -1,0 +1,5 @@
+baseURL = "https://layeredevent.com/"
+locale = "ko"
+title = "Layered Event"
+theme = "hextra"
+defaultContentLanguage = "ko"
